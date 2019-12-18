@@ -1,6 +1,6 @@
-# embCV
+# FaceCV
 
-embCV is the computer vision and machine learning library in the Embedded System
+FaceCV is the computer vision and machine learning library in the Embedded System
 
 # Requires:
 
