@@ -1,6 +1,6 @@
 # FaceCV
 
-FaceCV is the computer vision and machine learning library in the Embedded System
+Face Detection and Recognition with OpenCV
 
 # Requires:
 
