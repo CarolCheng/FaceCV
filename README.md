@@ -1,3 +1,3 @@
 # embCV
 
-The Computer Vision and Machine Learning library in the Embedded System
+embCV is the computer vision and machine learning library in the Embedded System
